@@ -2,3 +2,7 @@
 author is lililuya 👋 
 Skill
 - 🔭 Computer vision(CV-Image Editing-Digital Human)
+
+<!-- [![lililuya's github stats](https://github-readme-stats.vercel.app/api?username=lililuya)](https://github.com/lililuya) -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hogumachu&layout=compact)](https://github.com/hogumachu)
