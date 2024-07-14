@@ -1,8 +1,8 @@
-<img src="https://github-readme-stats.vercel.app/api?username=lililuya&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=lililuya&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" /> -->
 
 ## Hi, here is lililuya 👋 
 - 🔭 Computer vision(CV-Image Editing-Digital Human)
 
-<!-- [![lililuya's github stats](https://github-readme-stats.vercel.app/api?username=lililuya)](https://github.com/lililuya) -->
+[![lililuya's github stats](https://github-readme-stats.vercel.app/api?username=lililuya)](https://github.com/lililuya)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hogumachu&layout=compact)](https://github.com/hogumachu)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lililuya&layout=compact)](https://github.com/lililuya)
